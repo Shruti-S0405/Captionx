@@ -1,0 +1,20 @@
+{
+  "name": "captionme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "deploy": "turbo deploy",
+    "format": "prettier -w ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@bravo68web/prettier-config": "^1.2.4",
+    "turbo": "^2.0.3"
+  },
+  "packageManager": "pnpm@9.1.1"
+}
